@@ -1,5 +1,7 @@
 # Clientes en Javascript
 
+![customer](https://cloud.githubusercontent.com/assets/4549002/17638866/8fea5538-60c3-11e6-8549-6320b3d448ef.png)
+
 ## Objetivo
 Modelar un objeto cliente en javascript, y luego incorporarle un strategy.
 
