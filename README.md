@@ -1,5 +1,4 @@
-@Deprecated - está duplicado con 
-https://github.com/uqbar-project/eg-clientes-javascript
+## @Deprecated - está duplicado con https://github.com/uqbar-project/eg-clientes-javascript
 
 # Clientes en Javascript
 
